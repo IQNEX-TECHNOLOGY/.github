@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo de un archivo `CODE_OF_CONDUCT.md` para la organización "IQNEX TECHNOLOGY":
-
 ---
 
 # 📜 Código de Conducta - IQNEX TECHNOLOGY
